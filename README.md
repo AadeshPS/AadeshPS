@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and AI
 - 🌱 I’m currently learning about web development,python.
 - 💞️ I’m looking to collaborate on any projects
-- 📫 Can contact me via email:aadeshps@gmail.com
+- 📫 Can contact me via email: aadeshps@gmail.com
 
 <!---
 AadeshPS/AadeshPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
